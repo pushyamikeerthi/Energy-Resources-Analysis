@@ -9,6 +9,7 @@ http://www.mospi.gov.in/sites/default/files/press_releases_statements/StatewiseD
 Built visualization(s) that can help the government understand the relationship between GDP and Energy. 
 Described, statistically or in laymen terms, the relationship between GDP and Energy Consumption across regions.
   Is this causation or correlation? Built visualizations and telling the story for each of these:
+      
       1)Are there certain regions that this relationship is stronger than others? What could be the reason? 
       
       2) How has the relationship between GDP and Energy evolved over the last 4 years (between 2014-17)?
